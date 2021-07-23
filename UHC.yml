@@ -1,6 +1,7 @@
 settings:
   min_players: 4
   repeat_maps: true
+  duplicate_maps: true
   random_option: false
   voting_duration: 30
   cycle_duration: 20
