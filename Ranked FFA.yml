@@ -1,0 +1,8 @@
+min_players: 4
+maps:
+  - name: Garden
+    modes:
+      - Free-For-All
+  - name: Aquarena
+    modes:
+      - Free-For-All
