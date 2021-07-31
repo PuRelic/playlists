@@ -1,0 +1,11 @@
+min_players: 4
+maps:
+  - name: Breeze Island
+    modes:
+      - Survival Games
+  - name: Breeze Island II
+    modes:
+      - Survival Games
+  - name: Howling Mountains
+    modes:
+      - Survival Games
