@@ -1,0 +1,11 @@
+min_players: 4
+maps:
+  - name: Bogged Down
+    modes:
+      - Sky Wars
+  - name: Badlands
+    modes:
+      - Sky Wars
+  - name: Under Construction
+    modes:
+      - Sky Wars
