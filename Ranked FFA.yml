@@ -2,7 +2,10 @@ min_players: 2
 maps:
   - name: Garden
     modes:
-      - Ranked FFA
+      - Free-For-All
   - name: Aquarena
     modes:
-      - Ranked FFA
+      - Free-For-All
+  - name: Spiral Mountain
+    modes:
+      - Free-For-All
