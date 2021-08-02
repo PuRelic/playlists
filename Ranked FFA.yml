@@ -1,8 +1,8 @@
-min_players: 4
+min_players: 2
 maps:
   - name: Garden
     modes:
-      - Free-For-All
+      - Ranked FFA
   - name: Aquarena
     modes:
-      - Free-For-All
+      - Ranked FFA
