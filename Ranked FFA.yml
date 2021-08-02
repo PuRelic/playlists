@@ -5,6 +5,15 @@ maps:
   - name: Imperio
     modes:
       - Free-For-All
-  - name: Spiral Mountain
+  - name: Suburbia
+    modes:
+      - Free-For-All
+  - name: Aquarena
+    modes:
+      - Free-For-All
+  - name: Suburbia
+    modes:
+      - Free-For-All
+  - name: Swamp
     modes:
       - Free-For-All
