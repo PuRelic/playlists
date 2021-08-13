@@ -1,104 +1,58 @@
-min_players: 2
+settings:
+  repeat_game_modes: false
+  duplicate_game_modes: false
 maps:
   - name: Arctic Outpost
     modes:
-      - King of the Flag
-      - Kill Confirmed
       - Neutral Flag
       - Team Deathmatch
       - Free-For-All
-      - Team King of the Flag
   - name: Brickton
     modes:
-      - Free-For-All
-      - Breakout
-      - Team Deathmatch
-      - Team Breakout
-      - Kill Confirmed
-      - Team Kill Confirmed
-      - Multi-Team Deathmatch
-      - Multi-Team Kill Confirmed
-      - Multi-Team Breakout
+      - Crazy King
+      - Multi-Team King of the Flag
   - name: Garden
     modes:
-      - Free-For-All
-      - Breakout
       - Crazy King
-      - King of the Flag
-      - Team Deathmatch
-      - Domination
-      - Stockpile
       - Multi-Team Stockpile
       - Multi-Team Deathmatch
-      - Team Crazy King
       - Multi-Team Crazy King
-      - Squad Breakout
-      - Squad Kill Confirmed
-      - Squad Crazy King
-      - Squad King of the Flag
-      - Squad Deathmatch
   - name: Dome
     modes:
-      - Free-For-All
       - Kill Confirmed
       - Team Kill Confirmed
-      - Breakout
-      - Team Breakout
       - Multi-Team Kill Confirmed
-      - Multi-Team Breakout
-      - Squad Deathmatch
       - Squad Kill Confirmed
-      - Squad Breakout
   - name: Dead Man's Cove
     modes:
       - Free-For-All
       - Kill Confirmed
-      - Team Deathmatch
   - name: Kipos
     modes:
       - Free-For-All
       - Kill Confirmed
-      - King of the Flag
-      - Team Kill Confirmed
-      - Team Breakout
-      - Multi-Team Kill Confirmed
-      - Squad Kill Confirmed
-      - Multi-Team Breakout
-      - Squad Breakout
-      - Squad King of the Flag
       - Team King of the Flag
+      - Head Hunter
   - name: Ruiter
     modes:
-      - Kill Confirmed
-      - King of the Flag
       - Crazy King
       - Team Deathmatch
-      - Free-For-All
-      - Team Kill Confirmed
-      - Team Breakout
-      - Team King of the Flag
   - name: Sandbox
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
   - name: Suburbia
     modes:
-      - Kill Confirmed
       - Free-For-All
-      - Breakout
   - name: Zen Garden
     modes:
-      - King of the Flag
       - Capture the Flag
   - name: Swamp
     modes:
       - Free-For-All
-      - Breakout
       - Kill Confirmed
-      - King of the Flag
   - name: Calyta
     modes:
-      - Team Breakout
       - Team Deathmatch
       - Team Kill Confirmed
   - name: Dust in the Wind
@@ -107,22 +61,18 @@ maps:
   - name: Exodus
     modes:
       - Team Deathmatch
-      - Team Breakout
       - Team Kill Confirmed
   - name: Fort Caelum
     modes:
       - Team Deathmatch
-      - Team Breakout
       - Team Kill Confirmed
   - name: Rokost
     modes:
       - Attrition
       - Neutral Flag
-      - Team King of the Flag
   - name: Spore
     modes:
       - Team Kill Confirmed
-      - Team Breakout
       - Team Deathmatch
   - name: Singe
     modes:
@@ -144,11 +94,8 @@ maps:
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Team Breakout
       - Kill Confirmed
       - Free-For-All
-      - Breakout
-      - King of the Flag
       - Team King of the Flag
   - name: Glowshroom Cave
     modes:
@@ -159,16 +106,14 @@ maps:
   - name: Buffalo
     modes:
       - Team King of the Flag
-      - Team Breakout
       - Team Deathmatch
       - Team Kill Confirmed
   - name: Spiral Mountain
     modes:
       - Free-For-All
+      - Head Hunter
   - name: Talovy
     modes:
-      - Multi-Team Breakout
-      - Team Breakout
       - Team Deathmatch
   - name: Concourse
     modes:
@@ -205,10 +150,6 @@ maps:
   - name: Superbowl Sunday
     modes:
       - Flag Football
-  - name: Cliffville
-    modes:
-      - Domination
-      - Team Crazy King
   - name: Soreaa
     modes: 
       - King of the Hill
