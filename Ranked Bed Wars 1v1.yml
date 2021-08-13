@@ -1,0 +1,13 @@
+maps:
+  - name: Lost Temple Duel
+    modes:
+      - Bed Wars 1v1
+  - name: Irongate Duel
+    modes:
+      - Bed Wars 1v1
+  - name: Sugar Rush Duel
+    modes:
+      - Bed Wars 1v1
+  - name: Wyrmwood Forest Duel
+    modes:
+      - Bed Wars 1v1
