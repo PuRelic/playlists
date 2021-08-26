@@ -1,4 +1,3 @@
-min_players: 2
 maps:
   - name: Arctic Outpost
     modes:
@@ -151,3 +150,22 @@ maps:
   - name: Lush
     modes: 
       - King of the Hill
+  - name: DragonsGrave
+    modes:
+      - Team Head Hunter
+  - name: Azticus
+    modes:
+      - Multi-Team King of the Hill
+  - name: Betrayed
+    modes:
+      - Domination
+      - Kill Confirmed
+  - name: Canyon
+    modes:
+      - Team Deathmatch
+  - name: Cityscape
+    modes:
+      - Team Deathmatch
+  - name: Desert Storm 2.0
+    modes:
+      - Team Deathmatch
