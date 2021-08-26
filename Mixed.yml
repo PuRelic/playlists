@@ -11,6 +11,7 @@ maps:
     modes:
       - Crazy King
       - Multi-Team King of the Flag
+      - Bounty Hunter
   - name: Garden
     modes:
       - Crazy King
@@ -23,20 +24,24 @@ maps:
       - Team Kill Confirmed
       - Multi-Team Kill Confirmed
       - Squad Kill Confirmed
+      - Bounty Hunter
   - name: Dead Man's Cove
     modes:
       - Free-For-All
       - Kill Confirmed
+      - Bounty Hunter
   - name: Kipos
     modes:
       - Free-For-All
       - Kill Confirmed
       - Team King of the Flag
       - Head Hunter
+      - Bounty Hunter
   - name: Ruiter
     modes:
       - Crazy King
       - Team Deathmatch
+      - Bounty Hunter
   - name: Sandbox
     modes:
       - Team Deathmatch
@@ -44,6 +49,7 @@ maps:
   - name: Suburbia
     modes:
       - Free-For-All
+      - Bounty Hunter
   - name: Zen Garden
     modes:
       - Capture the Flag
@@ -51,6 +57,7 @@ maps:
     modes:
       - Free-For-All
       - Kill Confirmed
+      - Bounty Hunter
   - name: Calyta
     modes:
       - Team Deathmatch
@@ -94,9 +101,9 @@ maps:
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Kill Confirmed
       - Free-For-All
       - Team King of the Flag
+      - Bounty Hunter
   - name: Glowshroom Cave
     modes:
       - Flag Football
@@ -163,3 +170,23 @@ maps:
     modes: 
       - Free-For-All
       - Kill Confirmed
+      - Bounty Hunter
+  - name: DragonsGrave
+    modes:
+      - Team Head Hunter
+  - name: Azticus
+    modes:
+      - Multi-Team King of the Hill
+  - name: Betrayed
+    modes:
+      - Domination
+      - Kill Confirmed
+  - name: Canyon
+    modes:
+      - Team Deathmatch
+  - name: Cityscape
+    modes:
+      - Team Deathmatch
+  - name: Desert Storm 2.0
+    modes:
+      - Team Deathmatch
