@@ -1,0 +1,104 @@
+settings:
+  repeat_maps: false
+  duplicate_maps: false
+  voting_options: 3
+  min_players: 8
+  random_option: false
+  multi_select: false
+  voting_duration: 60
+maps:
+  - name: Arctic Outpost
+    modes:
+      - Neutral Flag
+  - name: Kipos
+    modes:
+      - Team King of the Flag
+  - name: Sandbox
+    modes:
+      - Team Breakout
+  - name: Zen Garden
+    modes:
+      - Capture the Flag
+  - name: Calyta
+    modes:
+      - Team Breakout
+  - name: Exodus
+    modes:
+      - Team Breakout
+  - name: Fort Caelum
+    modes:
+      - Team Breakout
+  - name: Rokost
+    modes:
+      - Attrition
+      - Neutral Flag
+  - name: Spore
+    modes:
+      - Team Breakout
+  - name: Singe
+    modes:
+      - Team Crazy King
+      - Domination
+  - name: Fluss
+    modes:
+      - Capture the Flag
+  - name: Dust in the Wind
+    modes:
+      - Capture the Flag
+  - name: Diamond Mines
+    modes:
+      - Attrition
+  - name: Jungler
+    modes:
+      - Attrition
+  - name: Hooktail
+    modes:
+      - Attrition
+  - name: Canbor
+    modes:
+      - Team Breakout
+      - Team King of the Flag
+  - name: Glowshroom Cave
+    modes:
+      - Flag Football
+  - name: Solstice
+    modes:
+      - Flag Football
+  - name: Concourse
+    modes:
+      - Team King of the Flag
+  - name: Medieval
+    modes:
+      - Flag Football
+  - name: Sakura
+    modes:
+      - Flag Football
+  - name: Hobbersnatch
+    modes:
+      - Capture the Flag
+  - name: Illios
+    modes:
+      - Team King of the Flag
+  - name: Lunar Lanes
+    modes: 
+      - Neutral Flag
+  - name: Treeshroud
+    modes: 
+      - Neutral Flag
+  - name: Ollie
+    modes: 
+      - Attrition
+  - name: Cliffville
+    modes:
+      - Domination
+      - Team Crazy King
+  - name: Inferno
+    modes:
+      - Domination
+      - Team Crazy King
+  - name: Lush
+    modes: 
+      - King of the Hill
+  - name: DragonsGrave
+    modes:
+      - Team Head Hunter
